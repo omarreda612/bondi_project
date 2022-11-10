@@ -1,0 +1,61 @@
+/* @media (min-width:100px) and (max-width:1000px) {
+    body {
+        background-color: red;
+    }
+}
+
+.container {
+    background-color: hotpink;
+    height: 500px;
+    display: flex;
+    /* code for parent */
+
+
+/* flex-flow: row wrap;
+    justify-content: center;
+    align-items: center; */
+
+
+/* }
+
+.item {
+    width: 300px;
+    height: 100px;
+    background-color: rgb(229, 255, 0);
+    /* code for child */
+
+
+/* flex-grow: ; ofently not used  */
+
+
+/* order for re-arranging items */
+
+
+/* } */
+
+
+/* .text {
+    color: red;
+} */
+
+
+/* body {
+    height: 1000px;
+}
+
+#scroll {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    background-color: aqua;
+    display: none;
+} */
+
+
+/*
+#text {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    display: none;
+} */
